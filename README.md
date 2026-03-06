@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD4D79&width=435&lines=Bem-vindos+ao+meu+perfil!+%F0%96%B9%AD)](https://git.io/typing-svg)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=beatrizmoraesdev&show_icons=true&theme=rose&cache_seconds=2300" alt="ilustração do status do github">
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=beatrizmoraesdev&show_icons=true&bg_color=fff5f7&title_color=ff91a4&icon_color=ff91a4&text_color=7d7d7d&hide_border=true" alt="Status da Bia">
 
 ### Olá, meu nome é Beatriz˖˚⊹ ꣑ৎ‎
 
