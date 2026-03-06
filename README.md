@@ -1,21 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD4D79&height=120&section=header">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD4D79&width=435&lines=Bem-vindos+ao+meu+perfil!+%F0%96%B9%AD)](https://git.io/typing-svg)
 
-<div align="right">
-  <img width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm5ndm5ndm5ndm5ndm5ndm5ndm5ndm5ndm5ndm5ndm5ndm5ndmZfbWlyYWN1bG91cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9FNcH5S2Na/giphy.gif" alt="Gatinho fofo">
-  <br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=beatrizmoraesdev&show_icons=true&theme=rose_pine&hide_border=true" alt="Status da Bia">
-</div>
+<img align="right" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc5YXd5NTl0MWIxaXhjcjdpeDVkZWtpbzY3Zm1ncGp4ZWg1enEweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GS1fO7QRk43lk2ARFS/giphy.gif">
 
 ### Olá, meu nome é Beatriz˖˚⊹ ꣑ৎ‎
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&color=e9d8d4&style=for-the-badge&logoColor=white)](https://discord.gg/binhatiz) 
+[![Discord](https://img.shields.io/badge/Discord-e9d8d4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/binhatiz)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&color=e9d8d4&style=for-the-badge&logoColor=white)](mailto:beatrizmarquesdem@gmail.com) 𐔌՞. .՞𐦯
 
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=CD4D79) 
+![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=CD4D79) 
+![Canva](https://img.shields.io/badge/Canva-white?style=for-the-badge&logo=Canva&logoColor=CD4D79)
